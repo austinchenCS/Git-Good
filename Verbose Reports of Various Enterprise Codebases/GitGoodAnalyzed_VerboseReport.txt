@@ -1,0 +1,2087 @@
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/DSString.cpp
+
+FILE SCORE: 22.2474
+Line Metrics Score: 0.161943
+Variable Metrics Score: 4
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 18.0855
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 304
+Total lines with C/C++ instruction: 247
+Total whitespace lines: 57
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.198381
+Ratio of comment lines to total lines in file: 0.161184
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 6
+Median variable length: 5.5
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 76
+Program Length: 759
+Calculated Program Length: 404.404
+Volume: 4742.18
+Difficulty: 58.6538
+Effort: 278147
+Expected time: 15452.6 seconds
+Expected bugs: 1.42034
+
+COMMENT METRICS: 
+49 line location(s) with full line "//" style comments: 
+  5
+  12
+  16
+  19
+  25
+  29
+  35
+  41
+  46
+  53
+  57
+  58
+  64
+  70
+  73
+  77
+  80
+  89
+  95
+  101
+  107
+  110
+  116
+  120
+  126
+  132
+  142
+  157
+  160
+  164
+  170
+  176
+  182
+  188
+  191
+  194
+  208
+  214
+  217
+  224
+  230
+  234
+  240
+  250
+  256
+  271
+  286
+  293
+  300
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/filemetrics.cpp
+
+FILE SCORE: 20.2711
+Line Metrics Score: 0
+Variable Metrics Score: 8
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 12.2711
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 81
+Total lines with C/C++ instruction: 65
+Total whitespace lines: 16
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.2
+Ratio of comment lines to total lines in file: 0.160494
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 4
+Median variable length: 4
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 24
+Program Length: 196
+Calculated Program Length: 100.107
+Volume: 898.653
+Difficulty: 5.5
+Effort: 4942.59
+Expected time: 274.588 seconds
+Expected bugs: 0.0967192
+
+COMMENT METRICS: 
+9 line location(s) with full line "//" style comments: 
+  5
+  12
+  19
+  30
+  33
+  37
+  40
+  43
+  62
+4 line location(s) with full line  "/* */" style comments: 
+  22
+  28
+  53
+  59
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/variablemetrics.cpp
+
+FILE SCORE: 36.0904
+Line Metrics Score: 19.5181
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 16.5723
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 201
+Total lines with C/C++ instruction: 166
+Total whitespace lines: 35
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.10241
+Ratio of comment lines to total lines in file: 0.0845771
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 8
+Median variable length: 7
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 60
+Program Length: 611
+Calculated Program Length: 305.737
+Volume: 3609.11
+Difficulty: 27
+Effort: 97446
+Expected time: 5413.67 seconds
+Expected bugs: 0.705859
+
+COMMENT METRICS: 
+17 line location(s) with full line "//" style comments: 
+  3
+  12
+  21
+  33
+  40
+  67
+  104
+  120
+  129
+  135
+  140
+  167
+  173
+  179
+  185
+  191
+  197
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/classmetrics.cpp
+
+FILE SCORE: 20.7497
+Line Metrics Score: 4.69388
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 16.0559
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 235
+Total lines with C/C++ instruction: 196
+Total whitespace lines: 39
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.153061
+Ratio of comment lines to total lines in file: 0.12766
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 9.88889
+Median variable length: 11
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 65
+Program Length: 617
+Calculated Program Length: 340.796
+Volume: 3715.8
+Difficulty: 18.3333
+Effort: 68123
+Expected time: 3784.61 seconds
+Expected bugs: 0.555996
+
+COMMENT METRICS: 
+30 line location(s) with full line "//" style comments: 
+  7
+  15
+  23
+  26
+  38
+  41
+  43
+  61
+  67
+  70
+  75
+  78
+  81
+  84
+  85
+  104
+  110
+  114
+  118
+  122
+  128
+  133
+  145
+  157
+  158
+  175
+  199
+  206
+  219
+  222
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/main.cpp
+
+FILE SCORE: 58.1954
+Line Metrics Score: 40
+Variable Metrics Score: 8
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 10.1954
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 17
+Total lines with C/C++ instruction: 13
+Total whitespace lines: 4
+
+Ratio of comment lines to total lines of C/C++ instruction: 0
+Ratio of comment lines to total lines in file: 0
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 4
+Median variable length: 4
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 23
+Program Length: 48
+Calculated Program Length: 86.6683
+Volume: 217.131
+Difficulty: 5.4
+Effort: 1172.51
+Expected time: 65.1393 seconds
+Expected bugs: 0.0370641
+
+COMMENT METRICS: 
+0 line location(s) with full line "//" style comments: 
+ -None
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/cmultilinedcomment.cpp
+
+FILE SCORE: 25.0867
+Line Metrics Score: 10.2703
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 14.8164
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 88
+Total lines with C/C++ instruction: 74
+Total whitespace lines: 14
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.148649
+Ratio of comment lines to total lines in file: 0.125
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 12
+Median variable length: 12
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 31
+Program Length: 208
+Calculated Program Length: 139.361
+Volume: 1030.47
+Difficulty: 28
+Effort: 28853.2
+Expected time: 1602.96 seconds
+Expected bugs: 0.313573
+
+COMMENT METRICS: 
+11 line location(s) with full line "//" style comments: 
+  3
+  11
+  25
+  28
+  38
+  44
+  50
+  56
+  67
+  78
+  84
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/halsteadmetrics.cpp
+
+FILE SCORE: 35.6933
+Line Metrics Score: 15.3846
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 20.3087
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 478
+Total lines with C/C++ instruction: 390
+Total whitespace lines: 88
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.123077
+Ratio of comment lines to total lines in file: 0.100418
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 9
+Median variable length: 7
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 101
+Program Length: 1695
+Calculated Program Length: 616.536
+Volume: 11285.7
+Difficulty: 115.077
+Effort: 1.29872e+06
+Expected time: 72151.1 seconds
+Expected bugs: 3.96782
+
+COMMENT METRICS: 
+48 line location(s) with full line "//" style comments: 
+  3
+  22
+  41
+  65
+  74
+  101
+  143
+  152
+  159
+  197
+  216
+  225
+  232
+  235
+  238
+  241
+  263
+  275
+  287
+  290
+  293
+  297
+  312
+  318
+  324
+  330
+  336
+  342
+  348
+  354
+  360
+  366
+  372
+  378
+  384
+  390
+  396
+  402
+  408
+  414
+  420
+  426
+  432
+  438
+  444
+  450
+  456
+  462
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/filefind.cpp
+
+FILE SCORE: 36.1404
+Line Metrics Score: 14.6479
+Variable Metrics Score: 7.2
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 14.2926
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 84
+Total lines with C/C++ instruction: 71
+Total whitespace lines: 13
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.126761
+Ratio of comment lines to total lines in file: 0.107143
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 4.4
+Median variable length: 5
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 45
+Program Length: 261
+Calculated Program Length: 214.647
+Volume: 1433.37
+Difficulty: 14
+Effort: 20067.2
+Expected time: 1114.85 seconds
+Expected bugs: 0.246151
+
+COMMENT METRICS: 
+9 line location(s) with full line "//" style comments: 
+  12
+  14
+  16
+  17
+  18
+  19
+  20
+  22
+  42
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/codeanalyzer.cpp
+
+FILE SCORE: 45.8495
+Line Metrics Score: 26.5613
+Variable Metrics Score: 0
+Class Metrics Score: 1
+Comment Metrics Score: 1.03093
+Halstead Metrics Score: 17.2573
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 291
+Total lines with C/C++ instruction: 253
+Total whitespace lines: 38
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.0671937
+Ratio of comment lines to total lines in file: 0.0584192
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 8.15385
+Median variable length: 9
+
+CLASS METRICS: 
+1 line location(s) where theclass name does not start with a capital letter: 
+173
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 56
+Program Length: 1217
+Calculated Program Length: 274.48
+Volume: 7067.55
+Difficulty: 22.1667
+Effort: 156664
+Expected time: 8703.56 seconds
+Expected bugs: 0.968697
+
+COMMENT METRICS: 
+17 line location(s) with full line "//" style comments: 
+  5
+  13
+  23
+  29
+  35
+  38
+  62
+  63
+  71
+  79
+  89
+  113
+  135
+  161
+  169
+  185
+  202
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+3 line location(s) with inlined "//" style comments: 
+  205
+  228
+  251
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/cppmultilinedcomment.cpp
+
+FILE SCORE: 17.9571
+Line Metrics Score: 3.33333
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 14.6238
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 78
+Total lines with C/C++ instruction: 66
+Total whitespace lines: 12
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.166667
+Ratio of comment lines to total lines in file: 0.141026
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 13
+Median variable length: 13
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 31
+Program Length: 182
+Calculated Program Length: 139.361
+Volume: 901.664
+Difficulty: 28
+Effort: 25246.6
+Expected time: 1402.59 seconds
+Expected bugs: 0.286865
+
+COMMENT METRICS: 
+11 line location(s) with full line "//" style comments: 
+  3
+  11
+  25
+  28
+  38
+  44
+  50
+  56
+  62
+  68
+  74
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/linemetrics.cpp
+
+FILE SCORE: 37.1069
+Line Metrics Score: 19.9197
+Variable Metrics Score: 0.7
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 16.4872
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 309
+Total lines with C/C++ instruction: 249
+Total whitespace lines: 60
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.100402
+Ratio of comment lines to total lines in file: 0.0809061
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 7.3
+Median variable length: 6.5
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 64
+Program Length: 852
+Calculated Program Length: 330.553
+Volume: 5112
+Difficulty: 17.9706
+Effort: 91865.6
+Expected time: 5103.65 seconds
+Expected bugs: 0.678647
+
+COMMENT METRICS: 
+25 line location(s) with full line "//" style comments: 
+  7
+  22
+  64
+  67
+  69
+  92
+  95
+  98
+  101
+  104
+  107
+  108
+  127
+  133
+  136
+  139
+  142
+  152
+  158
+  167
+  174
+  181
+  214
+  230
+  264
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/commentmetrics.cpp
+
+FILE SCORE: 26.1049
+Line Metrics Score: 4.75751
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 0.870406
+Halstead Metrics Score: 20.477
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 1034
+Total lines with C/C++ instruction: 866
+Total whitespace lines: 168
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.152425
+Ratio of comment lines to total lines in file: 0.12766
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 8.35714
+Median variable length: 9
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 72
+Program Length: 2843
+Calculated Program Length: 382.861
+Volume: 17541.1
+Difficulty: 83.2
+Effort: 1.45942e+06
+Expected time: 81078.8 seconds
+Expected bugs: 4.28872
+
+COMMENT METRICS: 
+132 line location(s) with full line "//" style comments: 
+  5
+  19
+  33
+  68
+  71
+  73
+  92
+  98
+  101
+  104
+  107
+  110
+  113
+  114
+  133
+  139
+  143
+  146
+  149
+  154
+  164
+  175
+  178
+  180
+  198
+  204
+  207
+  210
+  213
+  216
+  219
+  222
+  223
+  242
+  248
+  252
+  255
+  258
+  263
+  271
+  298
+  301
+  303
+  321
+  327
+  330
+  333
+  336
+  339
+  342
+  343
+  362
+  368
+  372
+  375
+  378
+  383
+  393
+  404
+  407
+  409
+  427
+  433
+  436
+  439
+  442
+  445
+  448
+  451
+  452
+  471
+  477
+  481
+  484
+  487
+  492
+  500
+  527
+  530
+  532
+  550
+  556
+  559
+  562
+  569
+  572
+  575
+  578
+  579
+  598
+  604
+  610
+  613
+  618
+  659
+  662
+  664
+  682
+  688
+  691
+  694
+  701
+  704
+  707
+  710
+  711
+  730
+  736
+  740
+  745
+  748
+  753
+  761
+  773
+  813
+  818
+  824
+  836
+  839
+  845
+  846
+  848
+  853
+  858
+  868
+  881
+  893
+  914
+  920
+  926
+  939
+  953
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+9 line location(s) with inlined "//" style comments: 
+  68
+  154
+  298
+  383
+  527
+  618
+  957
+  980
+  1003
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/mainwindow.cpp
+
+FILE SCORE: 52.2954
+Line Metrics Score: 28.5246
+Variable Metrics Score: 9.33333
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 14.4375
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 142
+Total lines with C/C++ instruction: 122
+Total whitespace lines: 20
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.057377
+Ratio of comment lines to total lines in file: 0.0492958
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 3.33333
+Median variable length: 4
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 41
+Program Length: 502
+Calculated Program Length: 190.465
+Volume: 2689.49
+Difficulty: 8.25
+Effort: 22188.3
+Expected time: 1232.68 seconds
+Expected bugs: 0.263204
+
+COMMENT METRICS: 
+7 line location(s) with full line "//" style comments: 
+  97
+  98
+  99
+  100
+  104
+  109
+  135
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/halsteadmetrics.h
+
+FILE SCORE: 29.2018
+Line Metrics Score: 14.026
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 1.02041
+Halstead Metrics Score: 14.1555
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 98
+Total lines with C/C++ instruction: 77
+Total whitespace lines: 21
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.12987
+Ratio of comment lines to total lines in file: 0.102041
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 12.4815
+Median variable length: 13
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 50
+Program Length: 235
+Calculated Program Length: 233.12
+Volume: 1326.31
+Difficulty: 13.7586
+Effort: 18248.1
+Expected time: 1013.79 seconds
+Expected bugs: 0.231041
+
+COMMENT METRICS: 
+10 line location(s) with full line "//" style comments: 
+  23
+  25
+  28
+  30
+  33
+  53
+  56
+  59
+  62
+  78
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  98
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/DSString.h
+
+FILE SCORE: 15.3118
+Line Metrics Score: 0
+Variable Metrics Score: 1.6
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 13.7118
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 74
+Total lines with C/C++ instruction: 52
+Total whitespace lines: 22
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.365385
+Ratio of comment lines to total lines in file: 0.256757
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 6.4
+Median variable length: 6
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 43
+Program Length: 170
+Calculated Program Length: 198.054
+Volume: 922.465
+Difficulty: 14.5455
+Effort: 13417.7
+Expected time: 745.426 seconds
+Expected bugs: 0.188218
+
+COMMENT METRICS: 
+19 line location(s) with full line "//" style comments: 
+  12
+  15
+  20
+  22
+  25
+  28
+  32
+  35
+  39
+  43
+  47
+  50
+  53
+  56
+  59
+  61
+  64
+  66
+  69
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/classmetrics.h
+
+FILE SCORE: 25.6699
+Line Metrics Score: 12.4138
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 2.43902
+Halstead Metrics Score: 10.8171
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 41
+Total lines with C/C++ instruction: 29
+Total whitespace lines: 12
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.137931
+Ratio of comment lines to total lines in file: 0.097561
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 19
+Median variable length: 19
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 25
+Program Length: 74
+Calculated Program Length: 100.239
+Volume: 343.645
+Difficulty: 5.25
+Effort: 1804.14
+Expected time: 100.23 seconds
+Expected bugs: 0.0493996
+
+COMMENT METRICS: 
+4 line location(s) with full line "//" style comments: 
+  21
+  25
+  28
+  35
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  41
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/AVLTree.h
+
+FILE SCORE: 18.6387
+Line Metrics Score: 0
+Variable Metrics Score: 1.8
+Class Metrics Score: 0
+Comment Metrics Score: 0.262467
+Halstead Metrics Score: 16.5762
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 381
+Total lines with C/C++ instruction: 334
+Total whitespace lines: 47
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.224551
+Ratio of comment lines to total lines in file: 0.19685
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 6.2
+Median variable length: 5
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 64
+Program Length: 764
+Calculated Program Length: 327.844
+Volume: 4584
+Difficulty: 21.3158
+Effort: 97711.6
+Expected time: 5428.42 seconds
+Expected bugs: 0.707141
+
+COMMENT METRICS: 
+0 line location(s) with full line "//" style comments: 
+ -None
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  198
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+19 line location(s) with multi-line "/* */" style comments: 
+  49-51
+  57-60
+  66-68
+  81-83
+  89-91
+  97-99
+  125-127
+  151-156
+  204-207
+  223-226
+  240-244
+  268-270
+  283-285
+  296-298
+  313-315
+  326-330
+  341-345
+  356-361
+  368-373
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/mainwindow.h
+
+FILE SCORE: 52.0274
+Line Metrics Score: 22.3529
+Variable Metrics Score: 16
+Class Metrics Score: 0
+Comment Metrics Score: 1.75439
+Halstead Metrics Score: 11.9201
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 57
+Total lines with C/C++ instruction: 34
+Total whitespace lines: 23
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.0882353
+Ratio of comment lines to total lines in file: 0.0526316
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 0
+Median variable length: 0
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 22
+Program Length: 79
+Calculated Program Length: 98.1075
+Volume: 352.295
+Difficulty: 11
+Effort: 3875.25
+Expected time: 215.291 seconds
+Expected bugs: 0.0822386
+
+COMMENT METRICS: 
+3 line location(s) with full line "//" style comments: 
+  34
+  37
+  39
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  57
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/cppmultilinedcomment.h
+
+FILE SCORE: 17.2072
+Line Metrics Score: 2.75862
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 2.63158
+Halstead Metrics Score: 11.817
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 38
+Total lines with C/C++ instruction: 29
+Total whitespace lines: 9
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.172414
+Ratio of comment lines to total lines in file: 0.131579
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 11.2857
+Median variable length: 11
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 27
+Program Length: 71
+Calculated Program Length: 104.711
+Volume: 337.597
+Difficulty: 10.6875
+Effort: 3608.07
+Expected time: 200.448 seconds
+Expected bugs: 0.0784139
+
+COMMENT METRICS: 
+5 line location(s) with full line "//" style comments: 
+  16
+  19
+  22
+  25
+  30
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  38
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/filemetrics.h
+
+FILE SCORE: 47.767
+Line Metrics Score: 34.7368
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 1.96078
+Halstead Metrics Score: 11.0694
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 51
+Total lines with C/C++ instruction: 38
+Total whitespace lines: 13
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.0263158
+Ratio of comment lines to total lines in file: 0.0196078
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 18
+Median variable length: 18
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 21
+Program Length: 103
+Calculated Program Length: 82.7106
+Volume: 452.409
+Difficulty: 4.75
+Effort: 2148.94
+Expected time: 119.386 seconds
+Expected bugs: 0.0555085
+
+COMMENT METRICS: 
+1 line location(s) with full line "//" style comments: 
+  29
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  51
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/DSHashtable.h
+
+FILE SCORE: 21.8598
+Line Metrics Score: 0
+Variable Metrics Score: 4.44444
+Class Metrics Score: 0
+Comment Metrics Score: 0.456621
+Halstead Metrics Score: 16.9587
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 219
+Total lines with C/C++ instruction: 185
+Total whitespace lines: 34
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.259459
+Ratio of comment lines to total lines in file: 0.219178
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 5.77778
+Median variable length: 7
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 54
+Program Length: 596
+Calculated Program Length: 271.383
+Volume: 3429.91
+Difficulty: 37.1364
+Effort: 127374
+Expected time: 7076.36 seconds
+Expected bugs: 0.843847
+
+COMMENT METRICS: 
+6 line location(s) with full line "//" style comments: 
+  106
+  213
+  214
+  215
+  216
+  217
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  219
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+2 line location(s) with multi-line "/* */" style comments: 
+  11-31
+  62-82
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/codeanalyzer.h
+
+FILE SCORE: 26.7065
+Line Metrics Score: 12.7273
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 1.78571
+Halstead Metrics Score: 12.1935
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 56
+Total lines with C/C++ instruction: 44
+Total whitespace lines: 12
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.136364
+Ratio of comment lines to total lines in file: 0.107143
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 9.66667
+Median variable length: 10
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 31
+Program Length: 130
+Calculated Program Length: 124.492
+Volume: 644.046
+Difficulty: 7.27273
+Effort: 4683.97
+Expected time: 260.22 seconds
+Expected bugs: 0.0933152
+
+COMMENT METRICS: 
+6 line location(s) with full line "//" style comments: 
+  40
+  42
+  45
+  47
+  50
+  52
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  56
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/linemetrics.h
+
+FILE SCORE: 13.2584
+Line Metrics Score: 0
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 1.5625
+Halstead Metrics Score: 11.6959
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 64
+Total lines with C/C++ instruction: 46
+Total whitespace lines: 18
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.26087
+Ratio of comment lines to total lines in file: 0.1875
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 23.2222
+Median variable length: 21
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 33
+Program Length: 95
+Calculated Program Length: 134.544
+Volume: 479.217
+Difficulty: 6.92308
+Effort: 3317.66
+Expected time: 184.314 seconds
+Expected bugs: 0.0741477
+
+COMMENT METRICS: 
+12 line location(s) with full line "//" style comments: 
+  15
+  21
+  23
+  25
+  27
+  30
+  32
+  35
+  37
+  40
+  47
+  51
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  62
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/Vector.h
+
+FILE SCORE: 32.0177
+Line Metrics Score: 12.524
+Variable Metrics Score: 1.8
+Class Metrics Score: 0
+Comment Metrics Score: 0
+Halstead Metrics Score: 17.6937
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 383
+Total lines with C/C++ instruction: 313
+Total whitespace lines: 70
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.13738
+Ratio of comment lines to total lines in file: 0.112272
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 6.2
+Median variable length: 6
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 67
+Program Length: 951
+Calculated Program Length: 350.179
+Volume: 5768.85
+Difficulty: 36.75
+Effort: 212005
+Expected time: 11778.1 seconds
+Expected bugs: 1.18515
+
+COMMENT METRICS: 
+43 line location(s) with full line "//" style comments: 
+  11
+  14
+  16
+  19
+  24
+  26
+  29
+  32
+  35
+  39
+  42
+  45
+  49
+  52
+  55
+  58
+  61
+  65
+  69
+  78
+  87
+  102
+  106
+  126
+  139
+  163
+  167
+  173
+  182
+  193
+  200
+  243
+  250
+  257
+  272
+  302
+  313
+  330
+  337
+  345
+  357
+  361
+  373
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+0 line location(s) with inlined "//" style comments: 
+ -None
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/filefind.h
+
+FILE SCORE: 55.595
+Line Metrics Score: 32
+Variable Metrics Score: 10
+Class Metrics Score: 0
+Comment Metrics Score: 3.33333
+Halstead Metrics Score: 10.2617
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 30
+Total lines with C/C++ instruction: 25
+Total whitespace lines: 5
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.04
+Ratio of comment lines to total lines in file: 0.0333333
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 3
+Median variable length: 3
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 19
+Program Length: 68
+Calculated Program Length: 71.4869
+Volume: 288.859
+Difficulty: 4.25
+Effort: 1227.65
+Expected time: 68.2028 seconds
+Expected bugs: 0.0382173
+
+COMMENT METRICS: 
+1 line location(s) with full line "//" style comments: 
+  26
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  30
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/variablemetrics.h
+
+FILE SCORE: 48.7657
+Line Metrics Score: 34.2857
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 2.08333
+Halstead Metrics Score: 12.3967
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 48
+Total lines with C/C++ instruction: 35
+Total whitespace lines: 13
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.0285714
+Ratio of comment lines to total lines in file: 0.0208333
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 18
+Median variable length: 20
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 29
+Program Length: 111
+Calculated Program Length: 114.968
+Volume: 539.236
+Difficulty: 10
+Effort: 5392.36
+Expected time: 299.575 seconds
+Expected bugs: 0.102501
+
+COMMENT METRICS: 
+1 line location(s) with full line "//" style comments: 
+  23
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  48
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/commentmetrics.h
+
+FILE SCORE: 20.5642
+Line Metrics Score: 0
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 7.36842
+Halstead Metrics Score: 13.1958
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 95
+Total lines with C/C++ instruction: 70
+Total whitespace lines: 25
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.285714
+Ratio of comment lines to total lines in file: 0.210526
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 22.75
+Median variable length: 22
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 42
+Program Length: 145
+Calculated Program Length: 187.909
+Volume: 781.886
+Difficulty: 12
+Effort: 9382.63
+Expected time: 521.257 seconds
+Expected bugs: 0.148283
+
+COMMENT METRICS: 
+20 line location(s) with full line "//" style comments: 
+  18
+  22
+  23
+  26
+  29
+  32
+  34
+  37
+  39
+  42
+  44
+  47
+  49
+  52
+  54
+  57
+  59
+  63
+  71
+  79
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+7 line location(s) with inlined "//" style comments: 
+  32
+  37
+  42
+  47
+  52
+  57
+  94
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+File: 
+/home/ds/CSE2341-16F-austinchenSMU/GitGood/GitGood/cmultilinedcomment.h
+
+FILE SCORE: 17.2783
+Line Metrics Score: 2.75862
+Variable Metrics Score: 0
+Class Metrics Score: 0
+Comment Metrics Score: 2.7027
+Halstead Metrics Score: 11.817
+
+Verbose File Details: 
+---------------------
+
+LINE METRICS: 
+Total number of lines in file: 37
+Total lines with C/C++ instruction: 29
+Total whitespace lines: 8
+
+Ratio of comment lines to total lines of C/C++ instruction: 0.172414
+Ratio of comment lines to total lines in file: 0.135135
+
+0 line location(s) where line spills over 80 chars: 
+ -None
+
+VARIABLE METRICS: 
+Average variable length: 11.2857
+Median variable length: 11
+
+CLASS METRICS: 
+0 line location(s) where theclass name does not start with a capital letter: 
+- None
+
+HALSTEAD COMPLEXITY METRICS: 
+Program Vocabulary: 27
+Program Length: 71
+Calculated Program Length: 104.711
+Volume: 337.597
+Difficulty: 10.6875
+Effort: 3608.07
+Expected time: 200.448 seconds
+Expected bugs: 0.0784139
+
+COMMENT METRICS: 
+5 line location(s) with full line "//" style comments: 
+  16
+  19
+  22
+  25
+  30
+0 line location(s) with full line  "/* */" style comments: 
+ -None
+1 line location(s) with inlined "//" style comments: 
+  37
+0 line location(s) with inlined  "/* */" style comments: 
+ -None
+0 line location(s) with multilined "//" style comments: 
+ -None
+0 line location(s) with multi-line "/* */" style comments: 
+ -None
+--------------------------------------------------------------------------------
+Overall Codebase Score: 31 (rounded)
+Overall Line Metrics Score: 13.1556
+Overall Variable Metrics Score: 2.60278
+Overall Class Metrics Score: 0.0357143
+Overall Comment Metrics Score: 1.11652
+Overall Halstead Metrics Score: 14.3629
