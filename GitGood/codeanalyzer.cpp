@@ -5,8 +5,8 @@
 // No-arg constructor
 CodeAnalyzer::CodeAnalyzer()
 {
-    this->directoryPathName = '\0';
-    this->outputName = '\0';
+//    this->directoryPathName = '\0';
+//    this->outputName = '\0';
     this->finalScore = 0.0;
 }
 
@@ -170,7 +170,7 @@ void CodeAnalyzer::generateReport(FileMetrics& allMetrics)
     fout << "CLASS METRICS: " << endl;
     fout << allMetrics.classData.locImproperClassNames.size()
          <<" line location(s) where the"
-           "class name does not start with a capital letter: " << endl;
+           " class name does not start with a capital letter: " << endl;
     if (allMetrics.classData.locImproperClassNames.size() > 0)
     {
         for (int j = 0; j < allMetrics.classData.locImproperClassNames.size();
